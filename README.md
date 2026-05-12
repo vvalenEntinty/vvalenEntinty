@@ -12,7 +12,7 @@
 ### `< Full Stack Developer · La Plata, Argentina />`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=b8ff3c)](https://valentinfiaccola.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/valentinfiaccola)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/valentin-gonzalo-fiaccola)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valentinfiaccola04@gmail.com)
 
 </div>
