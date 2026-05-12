@@ -130,14 +130,6 @@ Asistente de voz con IA construido en Python, integrado con APIs de lenguaje par
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=valentinfiaccola04&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=b8ff3c&icon_color=b8ff3c&text_color=f0f0f0)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinfiaccola04&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=b8ff3c&text_color=f0f0f0)
-
 </div>
 
 ---
