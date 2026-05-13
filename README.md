@@ -13,7 +13,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=b8ff3c)](https://valentinfiaccola.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-gonzalo-fiaccola-b0ab92369/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valentinfiaccola04@gmail.com)
 
 </div>
 
@@ -92,21 +92,32 @@ Ecosistema digital completo para una fintech argentina de créditos personales.
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Energía Solar — Web
-Plataforma web para empresa de instalación de paneles solares con cotizador y catálogo de productos.
+### 📚 eLeMe — Plataforma LMS
+Plataforma de cursos online con gestión de contenidos, estudiantes y pagos integrados.
+- Next.js 15 + TypeScript
+- Autenticación y base de datos con Supabase
+- Panel de administración y seguimiento de progreso
 
-`HTML` `CSS` `JavaScript` `Netlify`
-
----
-
-### ⚽ BalonPie — Plataforma de Cursos
-Sistema de cursos y contenido para academia de fútbol.
-
-`TypeScript` `React` `Node.js`
+`Next.js` `TypeScript` `Supabase` `PostgreSQL`
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### ⚡ Energía Solar — Web
+Plataforma web para empresa de instalación de paneles solares con cotizador y catálogo de productos.
+
+`TypeScript` `Next.js` `Tailwind CSS` `Netlify`
+
+---
+
+### ⚽ Bolp Calcio — Sports Agency
+Sitio web y panel de gestión para agencia deportiva internacional.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
 <td width="50%" valign="top">
 
 ### 💰 Más Efectivo — Landing
@@ -116,21 +127,16 @@ Landing page para financiera de préstamos personales en La Plata. SEO optimizad
 
 `HTML` `CSS` `JavaScript`
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🤖 Asistente IA Personal
-Asistente de voz con IA construido en Python, integrado con APIs de lenguaje para procesamiento de comandos en tiempo real.
+### 🤖 n8n WhatsApp Bot
+Bot de WhatsApp con automatización n8n que almacena datos de clientes en Excel.
 
-`Python` `AI/LLM APIs`
+`n8n` `WhatsApp` `JavaScript`
 
 </td>
 </tr>
 </table>
-
----
-
-</div>
 
 ---
 
