@@ -26,12 +26,12 @@ const valentin = {
   age:      21,
   location: "La Plata, Argentina 🇦🇷",
   role:     "Full Stack Developer",
-  focus:    ["productos en producción", "fintech", "blockchain", "mobile"],
+  focus:    ["productos en producción", "fintech", "SaaS", "mobile"],
   philosophy: "No solo escribo código — lo llevo a producción."
 }
 ```
 
-Construyo productos reales para empresas reales. En el último año lancé una **fintech con app móvil + tokens en Solana**, plataformas de cursos, e-commerce con pagos integrados y apps Android publicadas. Me interesa el trabajo que tiene impacto directo en el negocio.
+Construyo productos reales para empresas reales. En el último año lancé una **fintech con app móvil**, un **SaaS multi-tenant para empresas de energía solar**, plataformas de cursos, e-commerce con pagos integrados y apps Android publicadas. Me interesa el trabajo que tiene impacto directo en el negocio.
 
 ---
 
@@ -59,10 +59,8 @@ Construyo productos reales para empresas reales. En el último año lancé una *
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Blockchain & Pagos**
+**Pagos**
 
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
 ![MercadoPago](https://img.shields.io/badge/MercadoPago-009EE3?style=flat-square&logo=mercadopago&logoColor=white)
 
 **Tools**
@@ -76,18 +74,18 @@ Construyo productos reales para empresas reales. En el último año lancé una *
 
 ## Proyectos destacados
 
+> Los proyectos de clientes/empresas reales tienen código privado (datos financieros, contratos comerciales). Los repos linkeados son **showcases**: capturas + fragmentos de código sin datos sensibles.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🟢 MiClik — Fintech
-Ecosistema digital completo para una fintech argentina de créditos personales.
-- App móvil (React Native + Expo)
-- Portal de pagos (MercadoPago Bricks)
-- Token **MCK** en la red **Solana** (Anchor/Rust)
-- Autenticación biométrica, GPS de sucursales, notificaciones push
+### 🟢 MiClik — App (Fintech)
+App móvil para clientes de una financiera de créditos personales: créditos, cuotas, pagos y sistema de puntos.
 
-`React Native` `TypeScript` `Supabase` `Solana` `n8n`
+`React Native` `Expo` `TypeScript` `Supabase`
+
+🔗 [Repo showcase](https://github.com/vvalenEntinty/miclik-app-showcase)
 
 </td>
 <td width="50%" valign="top">
@@ -105,17 +103,34 @@ Plataforma de cursos online con gestión de contenidos, estudiantes y pagos inte
 <tr>
 <td width="50%" valign="top">
 
+### ☀️ GestiónSolar — SaaS
+SaaS multi-tenant propio, en producción, para empresas instaladoras de paneles solares: cálculo de producción vía API PVGIS, cotizaciones, monitoreo y billing.
+
+`Next.js` `TypeScript` `Supabase` `RLS`
+
+🔗 [Repo showcase](https://github.com/vvalenEntinty/energiasolar-saas-showcase)
+
+</td>
+<td width="50%" valign="top">
+
 ### ⚡ Energía Solar — Web
-Plataforma web para empresa de instalación de paneles solares con cotizador y catálogo de productos.
+E-commerce para empresa de instalación de paneles solares: catálogo, carrito y checkout con MercadoPago.
 
-`TypeScript` `Next.js` `Tailwind CSS` `Netlify`
+`Next.js` `TypeScript` `Tailwind CSS` `Netlify`
 
----
+🔗 [Repo showcase](https://github.com/vvalenEntinty/energiasolar-web-showcase)
 
-### ⚽ Bolp Calcio — Sports Agency
-Sitio web y panel de gestión para agencia deportiva internacional.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`HTML` `CSS` `JavaScript`
+### 📊 MiClik — Finanzas
+Panel interno para que la financiera gestione gastos, personal e impuestos por sucursal, con export/import a Excel.
+
+`Next.js` `TypeScript` `Supabase`
+
+🔗 [Repo showcase](https://github.com/vvalenEntinty/miclik-finanzas-showcase)
 
 </td>
 <td width="50%" valign="top">
@@ -127,7 +142,18 @@ Landing page para financiera de préstamos personales en La Plata. SEO optimizad
 
 `HTML` `CSS` `JavaScript`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚽ Bolp Calcio — Sports Agency
+Sitio web y panel de gestión para agencia deportiva internacional.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 n8n WhatsApp Bot
 Bot de WhatsApp con automatización n8n que almacena datos de clientes en Excel.
@@ -144,6 +170,6 @@ Bot de WhatsApp con automatización n8n que almacena datos de clientes en Excel.
 
 **`Transformo ideas en productos reales.`**
 
-*Webs · Plataformas · E-commerce · Blockchain · Mobile*
+*Webs · Plataformas · SaaS · E-commerce · Mobile*
 
 </div>
