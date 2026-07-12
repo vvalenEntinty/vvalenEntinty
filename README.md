@@ -12,12 +12,12 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## <img src="https://api.iconify.design/ph:user-circle-fill.svg?color=%23b8ff3c" width="22" height="22" align="center" alt=""/> Sobre mí
 
 ```ts
 const valentin = {
   age:      21,
-  location: "La Plata, Argentina 🇦🇷",
+  location: "La Plata, Argentina",
   role:     "Full Stack Developer",
   focus:    ["fintech", "SaaS", "e-commerce", "mobile"],
   philosophy: "Resuelvo problemas reales con código."
@@ -28,7 +28,7 @@ En el último año lancé una **fintech con app móvil**, un **SaaS multi-tenant
 
 ---
 
-## 🛠️ Stack
+## <img src="https://api.iconify.design/ph:wrench-fill.svg?color=%23b8ff3c" width="22" height="22" align="center" alt=""/> Stack
 
 **Frontend**
 
@@ -65,7 +65,7 @@ En el último año lancé una **fintech con app móvil**, un **SaaS multi-tenant
 
 ---
 
-## 🚀 Proyectos destacados
+## <img src="https://api.iconify.design/ph:rocket-launch-fill.svg?color=%23b8ff3c" width="22" height="22" align="center" alt=""/> Proyectos destacados
 
 > Los proyectos de clientes/empresas reales tienen código privado (datos financieros, contratos comerciales). Los repos linkeados son **showcases**: capturas + fragmentos de código sin datos sensibles.
 
@@ -73,17 +73,17 @@ En el último año lancé una **fintech con app móvil**, un **SaaS multi-tenant
 <tr>
 <td width="50%" valign="top">
 
-### 🟢 MiClik — App (Fintech)
+### <img src="https://api.iconify.design/ph:wallet-fill.svg?color=%23b8ff3c" width="18" height="18" align="center" alt=""/> MiClik — App (Fintech)
 App móvil para clientes de una financiera de créditos personales: créditos, cuotas, pagos y sistema de puntos.
 
 `React Native` `Expo` `TypeScript` `Supabase`
 
-🔗 [Repo showcase](https://github.com/vvalenEntinty/miclik-app-showcase)
+<img src="https://api.iconify.design/ph:link-simple-bold.svg?color=%23b8ff3c" width="14" height="14" align="center" alt=""/> [Repo showcase](https://github.com/vvalenEntinty/miclik-app-showcase)
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 eLeMe — Plataforma LMS
+### <img src="https://api.iconify.design/ph:graduation-cap-fill.svg?color=%23b8ff3c" width="18" height="18" align="center" alt=""/> eLeMe — Plataforma LMS
 Plataforma de cursos online con gestión de contenidos, estudiantes y pagos integrados.
 - Next.js 15 + TypeScript
 - Autenticación y base de datos con Supabase
@@ -96,42 +96,42 @@ Plataforma de cursos online con gestión de contenidos, estudiantes y pagos inte
 <tr>
 <td width="50%" valign="top">
 
-### ☀️ GestiónSolar — SaaS
+### <img src="https://api.iconify.design/ph:sun-fill.svg?color=%23b8ff3c" width="18" height="18" align="center" alt=""/> GestiónSolar — SaaS
 SaaS multi-tenant propio, en producción, para empresas instaladoras de paneles solares: cálculo de producción vía API PVGIS, cotizaciones, monitoreo y billing.
 
 `Next.js` `TypeScript` `Supabase` `RLS`
 
-🔗 [Repo showcase](https://github.com/vvalenEntinty/energiasolar-saas-showcase)
+<img src="https://api.iconify.design/ph:link-simple-bold.svg?color=%23b8ff3c" width="14" height="14" align="center" alt=""/> [Repo showcase](https://github.com/vvalenEntinty/energiasolar-saas-showcase)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Energía Solar — Web
+### <img src="https://api.iconify.design/ph:lightning-fill.svg?color=%23b8ff3c" width="18" height="18" align="center" alt=""/> Energía Solar — Web
 E-commerce para empresa de instalación de paneles solares: catálogo, carrito y checkout con MercadoPago.
 
 `Next.js` `TypeScript` `Tailwind CSS` `Netlify`
 
-🔗 [Repo showcase](https://github.com/vvalenEntinty/energiasolar-web-showcase)
+<img src="https://api.iconify.design/ph:link-simple-bold.svg?color=%23b8ff3c" width="14" height="14" align="center" alt=""/> [Repo showcase](https://github.com/vvalenEntinty/energiasolar-web-showcase)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 MiClik — Finanzas
+### <img src="https://api.iconify.design/ph:chart-bar-fill.svg?color=%23b8ff3c" width="18" height="18" align="center" alt=""/> MiClik — Finanzas
 Panel interno para que la financiera gestione gastos, personal e impuestos por sucursal, con export/import a Excel.
 
 `Next.js` `TypeScript` `Supabase`
 
-🔗 [Repo showcase](https://github.com/vvalenEntinty/miclik-finanzas-showcase)
+<img src="https://api.iconify.design/ph:link-simple-bold.svg?color=%23b8ff3c" width="14" height="14" align="center" alt=""/> [Repo showcase](https://github.com/vvalenEntinty/miclik-finanzas-showcase)
 
 </td>
 <td width="50%" valign="top">
 
-### 💰 Más Efectivo — Landing
+### <img src="https://api.iconify.design/ph:currency-dollar-fill.svg?color=%23b8ff3c" width="18" height="18" align="center" alt=""/> Más Efectivo — Landing
 Landing page para financiera de préstamos personales en La Plata, con formulario de contacto y SEO on-page.
 
-🔗 [masefectivo.com.ar](https://www.masefectivo.com.ar)
+<img src="https://api.iconify.design/ph:link-simple-bold.svg?color=%23b8ff3c" width="14" height="14" align="center" alt=""/> [masefectivo.com.ar](https://www.masefectivo.com.ar)
 
 `HTML` `CSS` `JavaScript`
 
@@ -140,7 +140,7 @@ Landing page para financiera de préstamos personales en La Plata, con formulari
 <tr>
 <td width="50%" valign="top">
 
-### ⚽ Bolp Calcio — Sports Agency
+### <img src="https://api.iconify.design/ph:soccer-ball-fill.svg?color=%23b8ff3c" width="18" height="18" align="center" alt=""/> Bolp Calcio — Sports Agency
 Sitio web y panel de gestión para agencia deportiva internacional.
 
 `HTML` `CSS` `JavaScript`
@@ -148,7 +148,7 @@ Sitio web y panel de gestión para agencia deportiva internacional.
 </td>
 <td width="50%" valign="top">
 
-### 🤖 n8n WhatsApp Bot
+### <img src="https://api.iconify.design/ph:robot-fill.svg?color=%23b8ff3c" width="18" height="18" align="center" alt=""/> n8n WhatsApp Bot
 Bot de WhatsApp con automatización n8n que almacena datos de clientes en Excel.
 
 `n8n` `WhatsApp` `JavaScript`
