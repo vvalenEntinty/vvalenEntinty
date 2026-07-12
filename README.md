@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/-Full_Stack_Developer-0a0a0a?style=flat-square"/>
 </p>
 
-Trabajo en **eLeMe** y **MiClik**, y en paralelo desarrollé **GestiónSolar**, un SaaS propio para empresas de energía solar.
+Trabajo en **eLeMe** y **MiClik**, y en paralelo desarrollé **GestiónSolar**, un SaaS propio para empresas de energía solar. Estudio Analista Programador en la UNLP mientras laburo full-time — la facultad me da la base, el día a día en producción me enseña el resto.
 
 **En el último año construí y llevé a producción:**
 
@@ -49,7 +49,7 @@ Trabajo en **eLeMe** y **MiClik**, y en paralelo desarrollé **GestiónSolar**, 
 </tr>
 </table>
 
-Stack de todos los días: **React**, **TypeScript**, **Node.js**, **Supabase**.
+Stack de todos los días: **React**, **TypeScript**, **Node.js**, **Supabase**. Me gusta agarrar un proyecto de punta a punta: diseño de base de datos, backend, frontend y el deploy final.
 
 ---
 
