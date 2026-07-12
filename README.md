@@ -14,17 +14,9 @@
 
 ## <img src="https://api.iconify.design/ph:user-circle-fill.svg?color=%23b8ff3c" width="22" height="22" align="center" alt=""/> Sobre mí
 
-```ts
-const valentin = {
-  age:      21,
-  location: "La Plata, Argentina",
-  role:     "Full Stack Developer",
-  focus:    ["fintech", "SaaS", "e-commerce", "mobile"],
-  philosophy: "Resuelvo problemas reales con código."
-}
-```
+21 años, full stack developer en La Plata, Argentina. Trabajo en eLeMe y MiClik, y en paralelo desarrollé **GestiónSolar**, un SaaS propio para empresas de energía solar.
 
-En el último año lancé una **fintech con app móvil**, un **SaaS multi-tenant para empresas de energía solar**, plataformas de cursos, e-commerce con pagos integrados y apps Android publicadas. Me gusta meterme en el problema del negocio antes de escribir la primera línea de código.
+En el último año construí y llevé a producción una app de fintech, un SaaS multi-tenant, una plataforma de cursos, un e-commerce con pagos integrados y un par de apps Android publicadas. Trabajo principalmente con **React**, **TypeScript**, **Node.js** y **Supabase**.
 
 ---
 
