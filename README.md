@@ -65,15 +65,6 @@ En el último año lancé una **fintech con app móvil**, un **SaaS multi-tenant
 
 ---
 
-## 📈 Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vvalenEntinty&show_icons=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=b8ff3c&icon_color=b8ff3c&text_color=ffffff" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvalenEntinty&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=b8ff3c&text_color=ffffff" width="34%" alt="Top languages" />
-</div>
-
----
-
 ## 🚀 Proyectos destacados
 
 > Los proyectos de clientes/empresas reales tienen código privado (datos financieros, contratos comerciales). Los repos linkeados son **showcases**: capturas + fragmentos de código sin datos sensibles.
