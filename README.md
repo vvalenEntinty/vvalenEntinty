@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=200&section=header&text=Valent%C3%ADn%20Fiaccola&fontSize=46&fontColor=b8ff3c&fontAlignY=38&animation=fadeIn" width="100%" alt="Valentín Fiaccola" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=B8FF3C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%C2%B7+La+Plata%2C+Argentina;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Supabase;Construyo+productos+reales+en+producci%C3%B3n" alt="Full Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=B8FF3C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%C2%B7+La+Plata%2C+Argentina;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Supabase;Fintech+%C2%B7+SaaS+%C2%B7+E-commerce" alt="Full Stack Developer" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=b8ff3c)](https://valentinfiaccola.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-gonzalo-fiaccola-b0ab92369/)
@@ -19,12 +19,12 @@ const valentin = {
   age:      21,
   location: "La Plata, Argentina 🇦🇷",
   role:     "Full Stack Developer",
-  focus:    ["productos en producción", "fintech", "SaaS", "mobile"],
-  philosophy: "No solo escribo código — lo llevo a producción."
+  focus:    ["fintech", "SaaS", "e-commerce", "mobile"],
+  philosophy: "Resuelvo problemas reales con código."
 }
 ```
 
-Construyo productos reales para empresas reales. En el último año lancé una **fintech con app móvil**, un **SaaS multi-tenant para empresas de energía solar**, plataformas de cursos, e-commerce con pagos integrados y apps Android publicadas. Me interesa el trabajo que tiene impacto directo en el negocio.
+En el último año lancé una **fintech con app móvil**, un **SaaS multi-tenant para empresas de energía solar**, plataformas de cursos, e-commerce con pagos integrados y apps Android publicadas. Me interesa el trabajo que tiene impacto directo en el negocio.
 
 ---
 
@@ -161,7 +161,7 @@ Bot de WhatsApp con automatización n8n que almacena datos de clientes en Excel.
 
 <div align="center">
 
-**`Transformo ideas en productos reales.`**
+**`Full stack, de punta a punta.`**
 
 *Webs · Plataformas · SaaS · E-commerce · Mobile*
 
