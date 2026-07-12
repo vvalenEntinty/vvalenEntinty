@@ -12,7 +12,7 @@
 
 ---
 
-## Sobre mí
+## 🧑‍💻 Sobre mí
 
 ```ts
 const valentin = {
@@ -24,11 +24,11 @@ const valentin = {
 }
 ```
 
-En el último año lancé una **fintech con app móvil**, un **SaaS multi-tenant para empresas de energía solar**, plataformas de cursos, e-commerce con pagos integrados y apps Android publicadas. Me interesa el trabajo que tiene impacto directo en el negocio.
+En el último año lancé una **fintech con app móvil**, un **SaaS multi-tenant para empresas de energía solar**, plataformas de cursos, e-commerce con pagos integrados y apps Android publicadas. Me gusta meterme en el problema del negocio antes de escribir la primera línea de código.
 
 ---
 
-## Stack
+## 🛠️ Stack
 
 **Frontend**
 
@@ -65,7 +65,16 @@ En el último año lancé una **fintech con app móvil**, un **SaaS multi-tenant
 
 ---
 
-## Proyectos destacados
+## 📈 Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vvalenEntinty&show_icons=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=b8ff3c&icon_color=b8ff3c&text_color=ffffff" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvalenEntinty&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=b8ff3c&text_color=ffffff" width="34%" alt="Top languages" />
+</div>
+
+---
+
+## 🚀 Proyectos destacados
 
 > Los proyectos de clientes/empresas reales tienen código privado (datos financieros, contratos comerciales). Los repos linkeados son **showcases**: capturas + fragmentos de código sin datos sensibles.
 
@@ -129,7 +138,7 @@ Panel interno para que la financiera gestione gastos, personal e impuestos por s
 <td width="50%" valign="top">
 
 ### 💰 Más Efectivo — Landing
-Landing page para financiera de préstamos personales en La Plata. SEO optimizado, formulario de contacto y diseño orientado a conversión.
+Landing page para financiera de préstamos personales en La Plata, con formulario de contacto y SEO on-page.
 
 🔗 [masefectivo.com.ar](https://www.masefectivo.com.ar)
 
@@ -164,5 +173,7 @@ Bot de WhatsApp con automatización n8n que almacena datos de clientes en Excel.
 **`Full stack, de punta a punta.`**
 
 *Webs · Plataformas · SaaS · E-commerce · Mobile*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0a0a0a&height=100&section=footer" width="100%" alt="" />
 
 </div>
