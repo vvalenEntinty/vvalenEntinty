@@ -1,15 +1,8 @@
 <div align="center">
 
-```
-██╗   ██╗ █████╗ ██╗     ███████╗███╗   ██╗████████╗██╗███╗   ██╗
-██║   ██║██╔══██╗██║     ██╔════╝████╗  ██║╚══██╔══╝██║████╗  ██║
-██║   ██║███████║██║     █████╗  ██╔██╗ ██║   ██║   ██║██╔██╗ ██║
-╚██╗ ██╔╝██╔══██║██║     ██╔══╝  ██║╚██╗██║   ██║   ██║██║╚██╗██║
- ╚████╔╝ ██║  ██║███████╗███████╗██║ ╚████║   ██║   ██║██║ ╚████║
-  ╚═══╝  ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝╚═╝  ╚═══╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=200&section=header&text=Valent%C3%ADn%20Fiaccola&fontSize=46&fontColor=b8ff3c&fontAlignY=38&animation=fadeIn" width="100%" alt="Valentín Fiaccola" />
 
-### `< Full Stack Developer · La Plata, Argentina />`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=B8FF3C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%C2%B7+La+Plata%2C+Argentina;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Supabase;Construyo+productos+reales+en+producci%C3%B3n" alt="Full Stack Developer" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=b8ff3c)](https://valentinfiaccola.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-gonzalo-fiaccola-b0ab92369/)
