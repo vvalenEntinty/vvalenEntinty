@@ -14,9 +14,42 @@
 
 ## <img src="https://api.iconify.design/ph:user-circle-fill.svg?color=%23b8ff3c" width="22" height="22" align="center" alt=""/> Sobre mí
 
-21 años, full stack developer en La Plata, Argentina. Trabajo en eLeMe y MiClik, y en paralelo desarrollé **GestiónSolar**, un SaaS propio para empresas de energía solar.
+<p align="left">
+<img src="https://img.shields.io/badge/-21_años-0a0a0a?style=flat-square"/>
+<img src="https://img.shields.io/badge/-La_Plata%2C_Argentina-0a0a0a?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Full_Stack_Developer-0a0a0a?style=flat-square"/>
+</p>
 
-En el último año construí y llevé a producción una app de fintech, un SaaS multi-tenant, una plataforma de cursos, un e-commerce con pagos integrados y un par de apps Android publicadas. Trabajo principalmente con **React**, **TypeScript**, **Node.js** y **Supabase**.
+Trabajo en **eLeMe** y **MiClik**, y en paralelo desarrollé **GestiónSolar**, un SaaS propio para empresas de energía solar.
+
+**En el último año construí y llevé a producción:**
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://api.iconify.design/ph:wallet-fill.svg?color=%23b8ff3c" width="28" height="28" alt=""/><br/>
+<sub>App fintech</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://api.iconify.design/ph:cube-fill.svg?color=%23b8ff3c" width="28" height="28" alt=""/><br/>
+<sub>SaaS multi-tenant</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://api.iconify.design/ph:graduation-cap-fill.svg?color=%23b8ff3c" width="28" height="28" alt=""/><br/>
+<sub>Plataforma de cursos</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://api.iconify.design/ph:shopping-cart-fill.svg?color=%23b8ff3c" width="28" height="28" alt=""/><br/>
+<sub>E-commerce</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://api.iconify.design/ph:android-logo-fill.svg?color=%23b8ff3c" width="28" height="28" alt=""/><br/>
+<sub>Apps Android</sub>
+</td>
+</tr>
+</table>
+
+Stack de todos los días: **React**, **TypeScript**, **Node.js**, **Supabase**.
 
 ---
 
